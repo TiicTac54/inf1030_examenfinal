@@ -1,0 +1,36 @@
+{
+  "contact_info": [
+    {
+      "id": "1",
+      "fname": "Bob",
+      "lname": "Doe",
+      "tel": "1234567890",
+      "email": "bob.doe@gmail.com",
+      "address": "123 Chemin du 100%"
+    },
+    {
+      "id": "2",
+      "fname": "Bob",
+      "lname": "Doe",
+      "tel": "1234567891",
+      "email": "bob.doe@gmail.com",
+      "address": "123 Chemin du 100%"
+    },
+    {
+      "id": "3",
+      "fname": "Bob",
+      "lname": "Doe",
+      "tel": "1234567892",
+      "email": "bob.doe@gmail.com",
+      "address": "123 Chemin du 100%"
+    },
+    {
+      "id": "4",
+      "fname": "Bob",
+      "lname": "Doe",
+      "tel": "1234567893",
+      "email": "bob.doe@gmail.com",
+      "address": "123 Chemin du 100%"
+    }
+  ]
+}
